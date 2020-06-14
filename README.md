@@ -1,6 +1,9 @@
 # Art of Data Science
 
-[TOC]
+## Content
+
+- [Principles](#Principles)
+- [Definitions](#Definitions)
 
 ## Principles
 
